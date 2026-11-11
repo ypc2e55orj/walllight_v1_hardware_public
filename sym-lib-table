@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_WallLight_V1")(type "KiCad")(uri "${KIPRJMOD}//..//walllight_v1_libraries/Symbols.kicad_sym")(options "")(descr ""))
+)
